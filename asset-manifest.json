@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.9b326910.chunk.css",
-    "main.js": "/react-website/static/js/main.1b6f511e.chunk.js",
-    "main.js.map": "/react-website/static/js/main.1b6f511e.chunk.js.map",
-    "runtime-main.js": "/react-website/static/js/runtime-main.1166d0f9.js",
-    "runtime-main.js.map": "/react-website/static/js/runtime-main.1166d0f9.js.map",
-    "static/css/2.d3cbd72f.chunk.css": "/react-website/static/css/2.d3cbd72f.chunk.css",
-    "static/js/2.66819fd9.chunk.js": "/react-website/static/js/2.66819fd9.chunk.js",
-    "static/js/2.66819fd9.chunk.js.map": "/react-website/static/js/2.66819fd9.chunk.js.map",
-    "index.html": "/react-website/index.html",
-    "static/css/2.d3cbd72f.chunk.css.map": "/react-website/static/css/2.d3cbd72f.chunk.css.map",
-    "static/css/main.9b326910.chunk.css.map": "/react-website/static/css/main.9b326910.chunk.css.map",
-    "static/js/2.66819fd9.chunk.js.LICENSE.txt": "/react-website/static/js/2.66819fd9.chunk.js.LICENSE.txt",
-    "static/media/cool-background.png": "/react-website/static/media/cool-background.11ccae7d.png",
-    "static/media/covid-tracker-img.JPG": "/react-website/static/media/covid-tracker-img.90b3c63c.JPG",
-    "static/media/digengill_resume_april.ecfd482b.pdf": "/react-website/static/media/digengill_resume_april.ecfd482b.pdf",
-    "static/media/handwriting_img.jpg": "/react-website/static/media/handwriting_img.59e8976c.jpg"
+    "main.css": "/static/css/main.9b326910.chunk.css",
+    "main.js": "/static/js/main.9ecf2926.chunk.js",
+    "main.js.map": "/static/js/main.9ecf2926.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86fe9e4a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86fe9e4a.js.map",
+    "static/css/2.d3cbd72f.chunk.css": "/static/css/2.d3cbd72f.chunk.css",
+    "static/js/2.66819fd9.chunk.js": "/static/js/2.66819fd9.chunk.js",
+    "static/js/2.66819fd9.chunk.js.map": "/static/js/2.66819fd9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d3cbd72f.chunk.css.map": "/static/css/2.d3cbd72f.chunk.css.map",
+    "static/css/main.9b326910.chunk.css.map": "/static/css/main.9b326910.chunk.css.map",
+    "static/js/2.66819fd9.chunk.js.LICENSE.txt": "/static/js/2.66819fd9.chunk.js.LICENSE.txt",
+    "static/media/cool-background.png": "/static/media/cool-background.11ccae7d.png",
+    "static/media/covid-tracker-img.JPG": "/static/media/covid-tracker-img.90b3c63c.JPG",
+    "static/media/digengill_resume_april.ecfd482b.pdf": "/static/media/digengill_resume_april.ecfd482b.pdf",
+    "static/media/handwriting_img.jpg": "/static/media/handwriting_img.59e8976c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1166d0f9.js",
+    "static/js/runtime-main.86fe9e4a.js",
     "static/css/2.d3cbd72f.chunk.css",
     "static/js/2.66819fd9.chunk.js",
     "static/css/main.9b326910.chunk.css",
-    "static/js/main.1b6f511e.chunk.js"
+    "static/js/main.9ecf2926.chunk.js"
   ]
 }
