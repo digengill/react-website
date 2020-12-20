@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/react-website/static/js/main.cc131920.chunk.js",
-    "main.js.map": "/react-website/static/js/main.cc131920.chunk.js.map",
-    "runtime-main.js": "/react-website/static/js/runtime-main.0d231fa9.js",
-    "runtime-main.js.map": "/react-website/static/js/runtime-main.0d231fa9.js.map",
-    "static/js/2.ef60f13d.chunk.js": "/react-website/static/js/2.ef60f13d.chunk.js",
-    "static/js/2.ef60f13d.chunk.js.map": "/react-website/static/js/2.ef60f13d.chunk.js.map",
-    "static/js/3.1efe2636.chunk.js": "/react-website/static/js/3.1efe2636.chunk.js",
-    "static/js/3.1efe2636.chunk.js.map": "/react-website/static/js/3.1efe2636.chunk.js.map",
+    "main.css": "/react-website/static/css/main.9b326910.chunk.css",
+    "main.js": "/react-website/static/js/main.87b6fddd.chunk.js",
+    "main.js.map": "/react-website/static/js/main.87b6fddd.chunk.js.map",
+    "runtime-main.js": "/react-website/static/js/runtime-main.1166d0f9.js",
+    "runtime-main.js.map": "/react-website/static/js/runtime-main.1166d0f9.js.map",
+    "static/css/2.d3cbd72f.chunk.css": "/react-website/static/css/2.d3cbd72f.chunk.css",
+    "static/js/2.66819fd9.chunk.js": "/react-website/static/js/2.66819fd9.chunk.js",
+    "static/js/2.66819fd9.chunk.js.map": "/react-website/static/js/2.66819fd9.chunk.js.map",
     "index.html": "/react-website/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/react-website/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.ef60f13d.chunk.js.LICENSE.txt": "/react-website/static/js/2.ef60f13d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-website/static/media/logo.6ce24c58.svg"
+    "static/css/2.d3cbd72f.chunk.css.map": "/react-website/static/css/2.d3cbd72f.chunk.css.map",
+    "static/css/main.9b326910.chunk.css.map": "/react-website/static/css/main.9b326910.chunk.css.map",
+    "static/js/2.66819fd9.chunk.js.LICENSE.txt": "/react-website/static/js/2.66819fd9.chunk.js.LICENSE.txt",
+    "static/media/cool-background.png": "/react-website/static/media/cool-background.11ccae7d.png",
+    "static/media/covid-tracker-img.JPG": "/react-website/static/media/covid-tracker-img.90b3c63c.JPG",
+    "static/media/digengill_resume_april.ecfd482b.pdf": "/react-website/static/media/digengill_resume_april.ecfd482b.pdf",
+    "static/media/handwriting_img.jpg": "/react-website/static/media/handwriting_img.59e8976c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d231fa9.js",
-    "static/js/2.ef60f13d.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.cc131920.chunk.js"
+    "static/js/runtime-main.1166d0f9.js",
+    "static/css/2.d3cbd72f.chunk.css",
+    "static/js/2.66819fd9.chunk.js",
+    "static/css/main.9b326910.chunk.css",
+    "static/js/main.87b6fddd.chunk.js"
   ]
 }
