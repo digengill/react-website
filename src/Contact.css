@@ -1,0 +1,15 @@
+.contact__div {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+._form {
+  
+    border: green 3px solid;
+    text-align: center;
+    padding: 70px;
+
+}
+
+
+

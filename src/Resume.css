@@ -1,0 +1,28 @@
+.pdf__div 
+{
+    margin:auto;
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.pdf__page > canvas {
+    max-width: 100%;
+    height: auto !important;
+    top: 0 !important;
+}
+.react-pdf__Page__textContent span {
+	opacity: 0.1;
+}
+
+.react-pdf__Page__textContent span::selection {
+	background-color: black;
+}
+
+.react-pdf__Document {
+	line-height: initial;
+}

@@ -1,0 +1,13 @@
+.container > *{
+    padding-top: 2rem;
+    z-index: 100;
+
+}
+.bg {
+    z-index: -200;
+
+}
+.container {
+    padding-bottom: 5rem;
+    z-index: 100;
+}

@@ -1,0 +1,38 @@
+.project__card{
+    background-color: #2b3d3d !important;
+}
+.card__div {
+    display: flex;
+    justify-content: space-between;
+
+}
+.card__left {
+    flex-basis: 50%;
+    text-align: center;
+    border: 1px solid black;
+}
+.card__image{
+    height: 100%;
+    width: 100%;
+}
+.card__right {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    text-align: center;
+
+}
+.card__info{
+    flex-basis: 50%;
+    text-align: center;
+}
+.card__links{
+    padding:10px;
+    flex-basis: 50%;
+    text-align: center;
+}
+
+.github__btn {
+    padding: 15px !important;
+    margin-right: 10px !important;
+}
