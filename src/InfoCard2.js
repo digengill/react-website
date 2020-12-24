@@ -15,7 +15,7 @@ function InfoCard2({title, image_src, body, github_link, live_link}) {
         <Card className="project__card">
             <CardContent className="card__div">
                 <div className="card__left">
-                <CardMedia className="card__image" image={require(`./images/${image_src}`)}/>
+                <CardMedia className="card__image" image={image_src}/>
                 </div>
                 <div className="card__right">
                     <div className="card__info">
