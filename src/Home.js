@@ -1,10 +1,8 @@
 import React, {useState} from 'react';
 import {Link} from 'react-router-dom';
-import image1 from './images/cool-background.png';
 import {Button, Typography, IconButton} from '@material-ui/core';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import DialogActions from '@material-ui/core/DialogActions';
 import DialogContent from '@material-ui/core/DialogContent';
 import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
@@ -16,25 +14,13 @@ import Dialog from '@material-ui/core/Dialog';
 import './Home.css';
 function Home() {
     const [open, setOpen] = useState(false);
-
-    const to_Project = () => {
-        alert('project')
-        
-    }
     const openDialog = () => {
         setOpen(true);
     }
     const closeDialog = () => {
         setOpen(false);
     }
-    const styles = {
 
-        largeIcon: {
-          width: 200,
-          height: 60,
-        },
-      
-      };
     return (
 
         <div className="backg">

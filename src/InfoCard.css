@@ -1,5 +1,5 @@
 .project__card{
-    background-color: #2b3d3d !important;
+    background-color: rgba(46, 46, 46, 0.7) !important;
 }
 .card__div {
     display: flex;

@@ -1,7 +1,7 @@
-import React, {useState} from 'react'
+import React from 'react'
 import { Document, Page, pdfjs } from 'react-pdf';
 import './Resume.css';
-import pdf from './digengill_resume_april.pdf'
+import pdf from './digengill_resume_dec21.pdf'
 import 'react-pdf/dist/umd/Page/AnnotationLayer.css';
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;

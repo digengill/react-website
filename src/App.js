@@ -1,15 +1,13 @@
 import React from "react";
-import {Navbar,NavDropdown,Nav} from 'react-bootstrap/';
+import {Navbar,Nav} from 'react-bootstrap/';
 import Projects from './Projects.js';
-import {BrowserRouter as Router,Route, Link, Switch} from 'react-router-dom';
-import {Typography} from '@material-ui/core';
+import {HashRouter as Router,Route, Link, Switch} from 'react-router-dom';
 
 import './App.css';
 import Home from './Home.js';
 import Footer from './Footer.js';
 import Contact from './Contact.js';
 import Resume from './Resume.js';
-import ParticleComponent from './ParticleComponent.js';
 import Particles from "./Particles";
 
 

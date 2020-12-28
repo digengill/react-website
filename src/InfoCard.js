@@ -1,11 +1,9 @@
 import React from 'react'
-import { makeStyles } from '@material-ui/core/styles';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import VisibilityIcon from '@material-ui/icons/Visibility';
 import {Button,Card, CardContent, CardMedia, Typography, IconButton} from '@material-ui/core';
 import './InfoCard.css';
-import img from './images/cool-background.png';
-import {Link, Redirect, Route} from 'react-router-dom';
+
 
 
 function InfoCard({title, image_src, body, github_link, live_link}) {
@@ -23,10 +21,10 @@ function InfoCard({title, image_src, body, github_link, live_link}) {
                         <Typography variant="subtitle1">{body}</Typography>
                     </div>
                     <div className="card__links">
-                        <IconButton className="github__btn" component={Link} to={{ pathname: github_link }} target="_blank" aria-label="github">
+                        <IconButton className="github__btn" onClick={() => {window.location.href = github_link;}} target="_blank" aria-label="github">
                             <GitHubIcon></GitHubIcon>
                         </IconButton>
-                        <Button className="view__btn" component={Link} to={{ pathname: live_link }} style={{backgroundColor: "#21b6ae"}}  target="_blank" variant="contained" 
+                        <Button className="view__btn" onClick={() => {window.location.href = live_link;}} style={{backgroundColor: "#21b6ae"}}  target="_blank" variant="contained" 
                             color="default"
                             startIcon={<VisibilityIcon />}  >View    
                             </Button> 

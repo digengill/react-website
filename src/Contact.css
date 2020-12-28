@@ -3,13 +3,16 @@
     display: flex;
     justify-content: center;
 }
-._form {
-  
-    border: green 3px solid;
-    text-align: center;
-    padding: 70px;
-
+.register_form {
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
 }
 
 
+.reg_div {
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+}
 

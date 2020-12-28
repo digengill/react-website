@@ -1,6 +1,5 @@
 import React from 'react'
 import './Footer.css'
-import Container from '@material-ui/core/Container';
 //className="col-sm"
 function Footer() {
     return (
